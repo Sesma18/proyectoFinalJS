@@ -1,0 +1,126 @@
+[
+    {
+        "titulo": "Soda Stereo",
+        "precio": 4000,
+        "anio": 1984,
+        "imagen": "https://sodastereo.com/files/albums/soda-stereo.jpg",
+        "canciones": ["¿Por qué no puedo ser del jet-set?", "Trátame suavemente", "Te hacen falta vitaminas"]
+    },
+    {
+        "titulo": "Nada Personal",
+        "precio": 4500,
+        "anio": 1985,
+        "imagen": "https://sodastereo.com/files/albums/nada-personal.jpg",
+        "canciones": ["Nada personal", "Cuando pase el temblor", "Danza rota"]
+    },
+    {
+        "titulo": "Signos",
+        "precio": 4000,
+        "anio": 1986,
+        "imagen": "https://sodastereo.com/files/albums/signos.jpg",
+        "canciones": ["Signos", "Prófugos", "Persiana americana"]
+    },
+    {
+        "titulo": "Ruido Blanco",
+        "precio": 4500,
+        "anio": 1987,
+        "imagen": "https://sodastereo.com/files/albums/ruido-blanco.jpg",
+        "canciones": ["Signos,Juego de seducción,Persiana americana"]
+    },
+
+    {
+        "titulo": "Doble Vida",
+        "precio": 3500,
+        "anio": 1988,
+        "imagen": "https://sodastereo.com/files/albums/doble-vida.jpg",
+        "canciones": ["Picnic en el 4° B", "Corazón delator", "El ritmo de tus ojos"]
+    },
+    {
+        "titulo": "Languis",
+        "precio": 4500,
+        "anio": 1989,
+        "imagen": "https://sodastereo.com/files/albums/languis.jpg",
+        "canciones": ["Mundo de quimeras,Los languis -nueva versíon 1989,En el borde -versión remix"]
+    },
+
+    {
+        "titulo": "Canción Animal",
+        "precio": 4000,
+        "anio": 1990,
+        "imagen": "https://sodastereo.com/files/albums/cancion-animal.jpg",
+        "canciones": ["En el séptimo día,Un millón de años luz,Canción animal"]
+    },
+    {
+        "titulo": "Rex Mix",
+        "precio": 4000,
+        "anio": 1991,
+        "imagen": "https://sodastereo.com/files/albums/rex-mix.jpg",
+        "canciones": ["Hombre al agua,No existes,En camino -Viva la Patria mix"]
+    },
+
+    {
+        "titulo": "Dynamo",
+        "precio": 5500,
+        "anio": 1992,
+        "imagen": "https://sodastereo.com/files/albums/dynamo.jpg",
+        "canciones": ["Primavera 0", "Camaleón", "Luna roja"]
+    },
+    {
+        "titulo": "Zona de Promesas",
+        "precio": 5000,
+        "anio": 1993,
+        "imagen": "https://sodastereo.com/files/albums/zona-de-promesas.jpg",
+        "canciones": ["Zona de promesas,Primavera 0 -bonzo mix,En la ciudad de la furia -dance mix"]
+    },
+    {
+        "titulo": "Sueño Stereo",
+        "precio": 5600,
+        "anio": 1995,
+        "imagen": "https://sodastereo.com/files/albums/sueno-stereo.jpg",
+        "canciones": ["Ella usó mi cabeza como un revólver", "Zoom", "Crema de estrellas"]
+    },
+
+    {
+        "titulo": "Comfort y Música para Volar",
+        "precio": 5000,
+        "anio": 1996,
+        "imagen": "https://sodastereo.com/files/albums/comfort-y-musica-para-volar.jpg",
+        "canciones": ["Un misil en mi placard,En la ciudad de la furia,Entre caníbales"]
+    },
+    {
+        "titulo": "El Último Concierto A",
+        "precio": 6000,
+        "anio": 1997,
+        "imagen": "https://sodastereo.com/files/albums/el-ultimo-concierto-a.jpg",
+        "canciones": ["En la ciudad de la furia,El rito,Hombre al agua"]
+    },
+    {
+        "titulo": "El Último Concierto B",
+        "precio": 6000,
+        "anio": 1997,
+        "imagen": "https://sodastereo.com/files/albums/el-ultimo-concierto-b.jpg",
+        "canciones": ["Disco eterno,Planeador,Luna roja"]
+    },
+    {
+        "titulo": "Gira Me Verás Volver 1",
+        "precio": 5000,
+        "anio": 2008,
+        "imagen": "https://sodastereo.com/files/albums/gira-me-veras-volver-1.jpg",
+        "canciones": ["Juegos de seducción,Tele-k,Imágenes retro"]
+    },
+    {
+        "titulo": "Gira Me Verás Volver 2",
+        "precio": 5000,
+        "anio": 2008,
+        "imagen": "https://sodastereo.com/files/albums/gira-me-veras-volver-2.jpg",
+        "canciones": ["Persiana americana,Fue,En remolinos"]
+    },
+    {
+        "titulo": "Séptimo Día",
+        "precio": 7000,
+        "anio": 2017,
+        "imagen": "https://sodastereo.com/files/albums/sep7imo-dia.jpg",
+        "canciones": ["En el séptimo día,Cae el sol + Planta,Picnic en el 4B + Te hacen falta vitaminas + Mi novia tiene biceps"]
+    }
+]
+
